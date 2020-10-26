@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-BSD%203--Clause-green)](https://github.com/Henley13/paper_centrosome_2020/blob/master/LICENSE)
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
-This repository gathers the code used to explore and analyze a large part of the images from the following paper:
+This repository gathers the code used for the following paper:
 
 __Title:__ 
 
