@@ -1,7 +1,8 @@
 # Methods, plots and numerical results for Safieddine et al. (2020)
 
-[![License](https://img.shields.io/badge/license-BSD%203--Clause-green)](https://github.com/Henley13/paper_centrosome_2020/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-BSD%203--Clause-green)](https://github.com/Henley13/paper_centrosome_2020/blob/main/LICENSE)
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4322750.svg)](https://doi.org/10.5281/zenodo.4322750)
 
 This repository gathers the code used for the following paper:
 
